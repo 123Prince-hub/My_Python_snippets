@@ -1,0 +1,7 @@
+1. login page
+ Login With :-> Agency Code / Contact No / Email Id
+
+2.SignUp Page
+
+ signup fields :--> Name, Dob, Address, City, Email, Contact No(with OTP verification), Enter Password(with Show/hide Button), PanCard No, KYC, Insurance Company, Refrence Code, Bank Name, 
+                    Account No, IFSC code, Cheque upload field
